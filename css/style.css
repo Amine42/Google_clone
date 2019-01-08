@@ -27,3 +27,22 @@ p
     font-size: 0.9375rem;
     color: rgba(0,0,0,.54);
 }
+
+img
+{
+    width: 100%;
+}
+
+.flex_container
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 2px solid red;
+    width: 100%;
+}
+
+nav 
+{
+    justify-content: flex-end;
+}
