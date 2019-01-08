@@ -5,9 +5,9 @@
     font-family: arial,sans-serif;
 }
 
-header nav a
+nav 
 {
-    color: rgba(0,0,0,0.87);
+    justify-content: flex-end;
 }
 
 a
@@ -17,9 +17,14 @@ a
     text-decoration: none;
 }
 
-input
+nav a 
 {
-    color: #222;
+    padding-left: 0.9375rem;
+}
+
+header nav a
+{
+    color: rgba(0,0,0,0.87);
 }
 
 p
@@ -28,9 +33,9 @@ p
     color: rgba(0,0,0,.54);
 }
 
-img
+input
 {
-    width: 100%;
+    color: #222;
 }
 
 .flex_container
@@ -42,12 +47,7 @@ img
     width: 100%;
 }
 
-nav 
+.center
 {
-    justify-content: flex-end;
-}
-
-nav a 
-{
-    padding-left: 0.9375rem;
+    justify-content: center;
 }
