@@ -17,11 +17,17 @@ footer
 footer a, footer p
 {
     padding-left: 27px;
+    line-height: 40px;
 }
 nav 
 {
     justify-content: flex-end;
     margin-top: 16px;
+}
+
+form
+{
+    padding-top: 2rem;
 }
 
 a
@@ -95,7 +101,6 @@ hr
 .div_search
 {
     margin-top: 15%;
-    /* margin-bottom: 25%; */
 }
 
 .div_input_search
@@ -119,12 +124,6 @@ hr
 .padding_27 
 {
     padding-right: 27px;
-}
-
-.footer_padding 
-{
-    padding-bottom: 16px;
-    padding-top: 16px;
 }
 
 .margin_btn {
@@ -154,4 +153,23 @@ hr
     border-radius: 2px;
     margin-top: -5px;
     margin-left: 16px;
+}
+
+.input_btn
+{
+    height: 36px;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    padding: 0 1rem;
+    border: 1px solid #fff;
+    font-weight: bold;
+    color: #757575;
+    background-color: #f2f2f2;
+    border-radius: 2px;
+}
+
+.input_btn:hover
+{
+    color: #222;
+    border: 1px solid #c6c6c6;
 }
