@@ -22,7 +22,7 @@ footer a, footer p
 nav 
 {
     justify-content: flex-end;
-    margin-top: 1rem;
+    margin-top: 1.25rem;
 }
 
 form
@@ -100,7 +100,7 @@ hr
 
 .div_search
 {
-    margin-top: 15%;
+    margin-top: 11.5%;
 }
 
 .div_input_search
@@ -127,7 +127,7 @@ hr
 }
 
 .margin_btn {
-    margin-right: 1rem;
+    margin-right: 1.875rem;
 }
 
 .picto
