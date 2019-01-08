@@ -44,10 +44,10 @@ img
 
 nav 
 {
-    justify-content: flex-end;
+    justify-content: center;
 }
 
-nav a 
+nav 
 {
-    padding-left: 0.9375rem;
+    justify-content: center;
 }
