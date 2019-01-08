@@ -147,6 +147,15 @@ hr
     margin-right: 0rem;
 }
 
+.micro_picto
+{
+    width: 24px;
+    height: 24px;
+    background: url(../img/googlemic_color_24dp.png) 0px 0px;
+    margin: auto;
+    margin-right: 1rem;
+}
+
 .btn 
 {
     border: 0.0625rem solid #4285f4;
