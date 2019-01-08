@@ -13,10 +13,6 @@ footer
     border-top: 1px solid #e4e4e4;
 }
 
-hr 
-{
-    border-top: 1px solid #e4e4e4;
-}
 
 footer a, footer p
 {
@@ -54,6 +50,13 @@ input
 {
     color: #222;
     border: none;
+}
+
+
+hr 
+{
+    width: 100%;
+    border-top: 1px solid #e4e4e4;
 }
 
 .flex_container
