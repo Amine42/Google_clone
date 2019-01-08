@@ -10,6 +10,16 @@ header nav a
     color: rgba(0,0,0,0.87);
 }
 
+nav 
+{
+    justify-content: flex-end;
+}
+
+nav a
+{
+    padding-left: 0.9375rem;
+}
+
 a
 {
     color: #5f6368;
@@ -28,11 +38,6 @@ p
     color: rgba(0,0,0,.54);
 }
 
-img
-{
-    width: 100%;
-}
-
 .flex_container
 {
     display: flex;
@@ -42,12 +47,12 @@ img
     width: 100%;
 }
 
-nav 
+.center
 {
     justify-content: center;
 }
 
-nav 
+.width_100
 {
-    justify-content: center;
+    width: 100%;
 }
