@@ -46,3 +46,8 @@ nav
 {
     justify-content: flex-end;
 }
+
+nav a 
+{
+    padding-left: 0.9375rem;
+}
