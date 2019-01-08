@@ -21,6 +21,7 @@ footer a, footer p
 nav 
 {
     justify-content: flex-end;
+    margin-top: 16px;
 }
 
 a
@@ -124,4 +125,8 @@ hr
 {
     padding-bottom: 16px;
     padding-top: 16px;
+}
+
+.margin_btn {
+    margin-right: 16px;
 }
